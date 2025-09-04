@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+Jinja2
+python-dotenv
+langchain-google-genai
+langchain
+langchain_community
+uvicorn[standard]
+websockets
+google-search-results
+tavily-python
+aiohttp
